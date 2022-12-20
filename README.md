@@ -8,3 +8,4 @@ Current Status
 | In Development ? | Project Name |
 | ---------------- | ------------ |
 | Very early stages | TMS |
+| Nearly complete | Temperature Sensor |
